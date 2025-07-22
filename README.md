@@ -23,11 +23,4 @@ This is a simple 4-degree-of-freedom robotic arm powered by four MG996R servos, 
 - GitHub for version control
 
 ## File Structure
-robot-arm-esp32-servo/
-├── code/
-│ └── robot_arm_control.ino # Main Arduino sketch
-├── models/
-│ └── *.stl # 3D printable parts
-├── images/
-│ └── assembly_view.jpg # Photos or renders
-├── README.md # This file
+
