@@ -1,6 +1,6 @@
 # 4DOF Robot Arm (ESP32 + MG996R)
 
-This is a simple 4-degree-of-freedom robotic arm powered by four MG996R servos, controlled by an ESP32 microcontroller. All parts were designed in Fusion 360 and 3D printed using PLA+ on a Neptune 3 Pro. This project is part of my personal portfolio as a mechanical engineering student at Purdue University.
+This is a simple 4-degree-of-freedom robotic arm powered by four MG996R servos, controlled by an ESP32 microcontroller. All parts were designed in Fusion 360 and 3D printed using PLA+ on a Neptune 3 Pro. This project is part of my personal portfolio as a MechE student at Purdue University :).
 
 ## Features
 - 4 MG996R servo motors for arm articulation
